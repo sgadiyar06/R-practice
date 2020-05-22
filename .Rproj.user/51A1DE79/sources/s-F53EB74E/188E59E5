@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584557382287.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3248678650",
+    "id" : "188E59E5",
+    "lastKnownWriteTime" : 1581442127,
+    "last_content_update" : 1581442127,
+    "path" : "E:/RStudio/hw1.R",
+    "project_path" : "hw1.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

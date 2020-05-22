@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584557400730.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2748C12A",
+    "lastKnownWriteTime" : 1584599070,
+    "last_content_update" : 1584599070762,
+    "path" : "E:/RStudio/prac5.R",
+    "project_path" : "prac5.R",
+    "properties" : {
+        "cursorPosition" : "6,18",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584557388505.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AC8CB1EE",
+    "lastKnownWriteTime" : 1584601267,
+    "last_content_update" : 1584601267701,
+    "path" : "E:/RStudio/hw3.R",
+    "project_path" : "hw3.R",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585152816099.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2A853874",
+    "lastKnownWriteTime" : 1585154757,
+    "last_content_update" : 1585154757994,
+    "path" : "E:/RStudio/prac7.R",
+    "project_path" : "prac7.R",
+    "properties" : {
+        "cursorPosition" : "11,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 12,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

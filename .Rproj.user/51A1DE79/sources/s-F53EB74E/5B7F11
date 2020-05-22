@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585155879667.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5B7F11",
+    "lastKnownWriteTime" : 1585158035,
+    "last_content_update" : 1585158035932,
+    "path" : "E:/RStudio/hw5.R",
+    "project_path" : "hw5.R",
+    "properties" : {
+        "cursorPosition" : "1,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
